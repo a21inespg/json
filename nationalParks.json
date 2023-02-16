@@ -1,0 +1,73 @@
+[
+    {
+        "nombre": "Picos de Europa",
+        "provincia": "Asturias, León y Cantabria",
+        "ecosistema": "Alta montaña atlantica",
+        "fichero": "picos.jpg"
+    },
+    {
+        "nombre": "Valle de Ordesa y Monte Perdido",
+        "provincia": "Huesca",
+        "ecosistema": "Alta montaña",
+        "fichero": "ordesa.jpg"
+    },
+    {
+        "nombre": "Caldera de Taburiente",
+        "provincia": "Sta. Cruz de Tenerife",
+        "ecosistema": "Volcanico",
+        "fichero": "caldera.jpg"
+    },
+    {
+        "nombre": "Teide",
+        "provincia": "Sta. Cruz de Tenerife",
+        "ecosistema": "Volcanico",
+        "fichero": "teide.jpg"
+    },
+    {
+        "nombre": "Aiguas Tortas y Lago de San Mauricio",
+        "provincia": "Lleida",
+        "ecosistema": "Alta montañ1a",
+        "fichero": "tortas.jpg"
+    },
+    {
+        "nombre": "Don1ana",
+        "provincia": "Huelva, Sevilla y Cadiz",
+        "ecosistema": "Humedal",
+        "fichero": "donana.jpg"
+    },
+    {
+        "nombre": "Tablas de Daimiel",
+        "provincia": "Ciudad Real",
+        "ecosistema": "Humedal",
+        "fichero": "daimiel.jpg"
+    },
+    {
+        "nombre": "Cabaneros",
+        "provincia": "CiudadReal y  Toledo",
+        "ecosistema": "media-alta montana mediterra1nea",
+        "fichero": "cabaneros.jpg"
+    },
+    {
+        "nombre": "Sierra Nevada",
+        "provincia": "Granada y Almeria",
+        "ecosistema": "media-alta montana mediterranea",
+        "fichero": "nevada.jpg"
+    },
+    {
+        "nombre": "Islas Atlanticas de Galicia",
+        "provincia": "Pontevedra y La Coruna",
+        "ecosistema": "maritimo-terrestre",
+        "fichero": "cies.jpg"
+    },
+    {
+        "nombre": "Monfrague",
+        "provincia": "Caceres",
+        "ecosistema": "media-alta montana mediterranea",
+        "fichero": "monfrague.jpg"
+    },
+    {
+        "nombre": "Sierra de Guadarrama",
+        "provincia": "Madrid y Segovia",
+        "ecosistema": "Alta montana mediterranea",
+        "fichero": "guadarrama.jpg"
+    }]
